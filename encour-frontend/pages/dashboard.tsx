@@ -123,7 +123,7 @@ export default function Dashboard() {
 
       {/* Footer */}
       <footer className="w-full p-6 bg-white/5 backdrop-blur-xl text-center border-t border-white/10 mt-auto">
-        <p className="text-gray-400">© 2025 Neuraz. All rights reserved.</p>
+        <p className="text-gray-400">© 2025 Encour. All rights reserved.</p>
       </footer>
     </div>
   );
