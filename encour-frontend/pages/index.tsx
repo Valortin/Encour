@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-purple-900 to-blue-900 text-white flex flex-col">
       <header className="w-full p-6 bg-white/5 backdrop-blur-xl shadow-2xl flex justify-between items-center fixed top-0 z-10 border-b border-white/10">
-        <h1 className="text-3xl font-black bg-gradient-to-r from-purple-400 to-blue-500 bg-clip-text text-transparent">Neuraz</h1>
+        <h1 className="text-3xl font-black bg-gradient-to-r from-purple-400 to-blue-500 bg-clip-text text-transparent">Encour</h1>
         <nav>
           <motion.button
             whileHover={{ scale: 1.05 }}
@@ -35,7 +35,7 @@ const Home = () => {
             transition={{ duration: 2, repeat: Infinity }}
             className="text-6xl md:text-7xl font-black bg-gradient-to-r from-purple-300 to-blue-300 bg-clip-text text-transparent mb-6"
           >
-            Welcome to Neuraz
+            Welcome to Encour
           </motion.h1>
           <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto mb-12 leading-relaxed">
             Your ultimate AI-powered trading assistant for DeFi and SocialFi. Unlock real-time insights, whale intelligence, and a thriving trading community in a decentralized future.
@@ -82,7 +82,7 @@ const Home = () => {
             Ready to Revolutionize Your Trading?
           </h2>
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto text-lg">
-            Experience the future of decentralized trading with Neuraz powered by AI and the Polygon chain innovation.
+            Experience the future of decentralized trading with Encour powered by AI and the Celo chain innovation.
           </p>
           <motion.button
             whileHover={{ scale: 1.05 }}
@@ -97,7 +97,7 @@ const Home = () => {
 
       <footer className="w-full p-6 bg-white/5 backdrop-blur-xl text-center border-t border-white/10 mt-auto">
         <p className="text-gray-400">
-          &copy; 2025 Neuraz.
+          &copy; 2025 Encour.
         </p>
       </footer>
     </div>
