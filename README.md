@@ -7,11 +7,6 @@ Designed for crypto traders inside Warpcast, Encour delivers real-time market in
 
 By combining Celo’s instant finality and near-zero fees with Farcaster’s social graph and viral distribution, Encour makes professional-grade trading tools accessible to everyone, directly inside their favorite social feed.
 
-- **Live App**: https://encour.xyz (opens as a Frame → instantly expands to full mini-app in Warpcast)
-- **Repository**: https://github.com/Valortin/Encour
-- **Creator**: Valortin
-- **Smart Contracts**: Deployed on **Celo Mainnet**
-
 ## What It Does
 Encour brings institutional-level trading intelligence into Farcaster:
 
@@ -82,9 +77,6 @@ Most traders live in Farcaster but have to leave the app to access quality tradi
 - Add support for perpetuals and options via Celo DeFi protocols
 - Build the first truly social, verifiable trading terminal
 
-## Try It Now
-Just reply to any cast or open this Frame in Warpcast:  
-https://encour.xyz
 
 (Works instantly on mobile — no app download required)
 
