@@ -7,6 +7,8 @@ Designed for crypto traders inside Warpcast, Encour delivers real-time market in
 
 By combining Celo’s instant finality and near-zero fees with Farcaster’s social graph and viral distribution, Encour makes professional-grade trading tools accessible to everyone, directly inside their favorite social feed.
 
+https://youtu.be/9AuMkMaGCfE
+
 ## What It Does
 Encour brings institutional-level trading intelligence into Farcaster:
 
